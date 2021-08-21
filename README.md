@@ -3,9 +3,9 @@ The Sierpiński triangle, also called the Sierpiński gasket or Sierpiński siev
 
 #### The Sierpinski triangle may be constructed from an equilateral triangle by repeated removal of triangular subsets:
     
-    1. Start with an equilateral triangle.
-    2. Subdivide it into four smaller congruent equilateral triangles and remove the central triangle.
-    3. Repeat step 2 with each of the remaining smaller triangles infinitely.
+1. Start with an equilateral triangle.
+2. Subdivide it into four smaller congruent equilateral triangles and remove the central triangle.
+3. Repeat step 2 with each of the remaining smaller triangles infinitely.
 
 
 ### An example of the result of the algorithm
@@ -13,7 +13,7 @@ The Sierpiński triangle, also called the Sierpiński gasket or Sierpiński siev
 ![Sierpiński Triangle](/docs/SierpińskiTriangle.gif)
 > [• try it on codepen.io](https://codepen.io/fulldroper/pen/PomMxpP).
 
-##References
+### References
 1. Conversano, Elisa; Tedeschini-Lalli, Laura (2011), ["Sierpinski Triangles in Stone on Medieval Floors in Rome"](http://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf) (PDF), APLIMAT Journal of Applied Mathematics, 4: 114, 122
 
 2. Brunori, Paola; Magrone, Paola; Lalli, Laura Tedeschini (2018-07-07), ["Imperial Porphiry and Golden Leaf: Sierpinski Triangle in a Medieval Roman Cloister"](https://www.researchgate.net/publication/326251830), Advances in Intelligent Systems and Computing, Springer International Publishing, pp. 595–609,
