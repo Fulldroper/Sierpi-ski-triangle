@@ -1,5 +1,5 @@
 # Sierpiński triangle
-The Sierpiński triangle (sometimes spelled Sierpinski), also called the Sierpiński gasket or Sierpiński sieve, is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets—that is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpiński.
+The Sierpiński triangle, also called the Sierpiński gasket or Sierpiński sieve, is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets—that is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpiński.
 
 #### The Sierpinski triangle may be constructed from an equilateral triangle by repeated removal of triangular subsets:
     
@@ -11,9 +11,9 @@ The Sierpiński triangle (sometimes spelled Sierpinski), also called the Sierpi�
 ### An example of the result of the algorithm
 
 ![Sierpiński Triangle](/docs/SierpińskiTriangle.gif)
-###[• try it on codepen.io](https://codepen.io/fulldroper/pen/PomMxpP).
+> [• try it on codepen.io](https://codepen.io/fulldroper/pen/PomMxpP).
 
-#References
+####References
 > Conversano, Elisa; Tedeschini-Lalli, Laura (2011), ["Sierpinski Triangles in Stone on Medieval Floors in Rome"](http://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf) (PDF), APLIMAT Journal of Applied Mathematics, 4: 114, 122
 
 > Brunori, Paola; Magrone, Paola; Lalli, Laura Tedeschini (2018-07-07), ["Imperial Porphiry and Golden Leaf: Sierpinski Triangle in a Medieval Roman Cloister"](https://www.researchgate.net/publication/326251830), Advances in Intelligent Systems and Computing, Springer International Publishing, pp. 595–609,
