@@ -13,13 +13,13 @@ The Sierpiński triangle, also called the Sierpiński gasket or Sierpiński siev
 ![Sierpiński Triangle](/docs/SierpińskiTriangle.gif)
 > [• try it on codepen.io](https://codepen.io/fulldroper/pen/PomMxpP).
 
-####References
-> Conversano, Elisa; Tedeschini-Lalli, Laura (2011), ["Sierpinski Triangles in Stone on Medieval Floors in Rome"](http://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf) (PDF), APLIMAT Journal of Applied Mathematics, 4: 114, 122
+##References
+1. Conversano, Elisa; Tedeschini-Lalli, Laura (2011), ["Sierpinski Triangles in Stone on Medieval Floors in Rome"](http://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf) (PDF), APLIMAT Journal of Applied Mathematics, 4: 114, 122
 
-> Brunori, Paola; Magrone, Paola; Lalli, Laura Tedeschini (2018-07-07), ["Imperial Porphiry and Golden Leaf: Sierpinski Triangle in a Medieval Roman Cloister"](https://www.researchgate.net/publication/326251830), Advances in Intelligent Systems and Computing, Springer International Publishing, pp. 595–609,
+2. Brunori, Paola; Magrone, Paola; Lalli, Laura Tedeschini (2018-07-07), ["Imperial Porphiry and Golden Leaf: Sierpinski Triangle in a Medieval Roman Cloister"](https://www.researchgate.net/publication/326251830), Advances in Intelligent Systems and Computing, Springer International Publishing, pp. 595–609,
 
-> ["Sierpinski Gasket by Trema Removal"](http://www.cut-the-knot.org/triangle/Tremas.shtml)
+3. ["Sierpinski Gasket by Trema Removal"](http://www.cut-the-knot.org/triangle/Tremas.shtml)
 
-> Michael Barnsley; et al. (2003), "V-variable fractals and superfractals", arXiv:[math/0312314](https://arxiv.org/abs/math/0312314)
+4. Michael Barnsley; et al. (2003), "V-variable fractals and superfractals", arXiv:[math/0312314](https://arxiv.org/abs/math/0312314)
 
-> Peitgen, Heinz-Otto; Jürgens, Hartmut; Saupe, Dietmar; Maletsky, Evan; Perciante, Terry; and Yunker, Lee (1991). Fractals for the Classroom: Strategic Activities Volume One, p.39. Springer-Verlag, New York. ISBN 0-387-97346-X and ISBN 3-540-97346-X.
+5. Peitgen, Heinz-Otto; Jürgens, Hartmut; Saupe, Dietmar; Maletsky, Evan; Perciante, Terry; and Yunker, Lee (1991). Fractals for the Classroom: Strategic Activities Volume One, p.39. Springer-Verlag, New York. ISBN 0-387-97346-X and ISBN 3-540-97346-X.
